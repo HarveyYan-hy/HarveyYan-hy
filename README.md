@@ -34,4 +34,6 @@
 > 
 > `Paper Notes` • **Monetary Policy and Exchange Rate Volatility in a Small Open Economy (2005)** • [Notes](notes/gali2005/gali2005.pdf)
 > 
+> `Method Toolbox` • **Temporal Disaggregation** • [Notes](notes/TemporalDisaggregation/TemporalDisaggregation.pdf)
+> 
 > `Advanced Macroeconomics` • **The Solow Growth Model** • [Notes](notes/solow_model/solow.pdf)
